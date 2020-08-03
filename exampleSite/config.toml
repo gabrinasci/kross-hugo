@@ -2,7 +2,7 @@ baseURL = "https://gabrielenascimben.netlify.app"
 languageCode = "it-it"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Gabriele Nascimben | Portfolio"
 [[menu.main]]
 URL = "about"
 name = "About"
